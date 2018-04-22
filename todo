@@ -1,0 +1,6 @@
+
+# create tables in sqlite that will hold information about email , requests , and questions. and an integer for index. 
+# this will be a question submission form. 
+# create an html page for the form (question, email)
+# connect a post request to the form. 
+
